@@ -2,7 +2,7 @@
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=210&section=header&text=Barun%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    alt="Barun Kumar"
+    alt="Barun"
     width="100%"
   />
 </div>
