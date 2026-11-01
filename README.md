@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barun0045" alt="barun0045" /></a> </p>
 
-- 🌱 I’m currently learning **Student**
-
 - 📫 How to reach me **barunpati816@gmail.com**
 
 - ⚡ Fun fact **Nahh Just chill and enjoying the vibe <33**
